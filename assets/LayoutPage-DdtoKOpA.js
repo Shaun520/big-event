@@ -1,0 +1,1 @@
+import{_ as t,h as r,j as n,H as a,I as s,f as c,$ as _}from"./index-lQyoxy5_.js";const l={};function u(f,e){const o=_("router-view");return c(),r(s,null,[e[0]||(e[0]=n("div",null,"布局架子",-1)),a(o)],64)}const d=t(l,[["render",u]]);export{d as default};
