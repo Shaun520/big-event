@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{h as r,f as t}from"./index-B-oxjium.js";const c={};function o(n,a){return t(),r("div",null,"个人头像")}const f=e(c,[["render",o]]);export{f as default};
