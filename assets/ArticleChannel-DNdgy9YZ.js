@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{h as r,f as c}from"./index-B-oxjium.js";const n={};function t(o,a){return c(),r("div",null,"文章频道")}const f=e(n,[["render",t]]);export{f as default};

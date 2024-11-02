@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{h as r,f as o}from"./index-BDrdsEcH.js";const c={};function t(n,s){return o(),r("div",null,"个人信息")}const a=e(c,[["render",t]]);export{a as default};
