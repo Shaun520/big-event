@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{h as r,f as c}from"./index-DOVkoTca.js";const t={};function n(o,a){return c(),r("div",null,"文章管理")}const f=e(t,[["render",n]]);export{f as default};

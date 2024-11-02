@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{h as t,j as n,H as a,I as s,f as c,_}from"./index-DOVkoTca.js";const l={};function m(f,e){const o=_("router-view");return c(),t(s,null,[e[0]||(e[0]=n("div",null,"布局架子",-1)),a(o)],64)}const p=r(l,[["render",m]]);export{p as default};
